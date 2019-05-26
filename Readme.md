@@ -1,6 +1,10 @@
 # Let's Get to Speed for Hack'19
 
-![Hack'19 Logo](https://flutterhackathon.com/assets/images/image01.png?v21881718278551)
+[![Twitter](https://img.shields.io/badge/Follow_On_Twitter-Ayush_Shekhar-blue.svg?style=flat)](https://twitter.com/007221b)
+[![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Ayush_Shekhar-green.svg)](https://medium.com/@ayushshekhar)
+[![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Ayush_Shekhar-blue.svg?style=flat)](https://www.linkedin.com/in/ayushshekhar/)
+
+![Hack'19 Logo](https://i.ibb.co/0VnrPXW/The-Un-Official-Developer-Handbook.png)
 
 **Hack'19**, the first of its kind **International Flutter Hackathon**, organised by the Flutter Community and supported by the Flutter team at Google is just around the corner, and I thought that I should attempt to curate some helpful resources, to help the participants get to speed.
 
@@ -92,3 +96,9 @@ Firebase deserves a separate section because for most people their app will have
 3. [Flutter Web: Making a Responsive Portfolio App | Part 1  by Pawan Kumar](https://www.youtube.com/watch?v=QAHqlsAky_4)
 4. [Flutter Web: Deploying Portfolio App To Github.IO | Peanut Tutorial | Part 2 by Pawan Kumar](https://www.youtube.com/watch?v=ajSliNbczi0)
 5. [Flutter For Web: Getting Started | Migrating PokemonApp to Web by Pawan Kumar](https://www.youtube.com/watch?v=smwtgvpK9FU)
+
+## CI/CD with CodeMagic
+
+1. [CodeMagic by NeverCode](https://codemagic.io/)
+2. [Continuous Integration for Flutter with Codemagic by CodeMagic](https://medium.com/flawless-app-stories/continuous-integration-for-flutter-with-codemagic-239aa206a70)
+3. [Build and host your Flutter web apps on Codemagic](https://blog.codemagic.io/build-and-host-your-flutter-web-apps-on-codemagic/)
