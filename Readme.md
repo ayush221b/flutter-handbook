@@ -1,6 +1,6 @@
 # Let's Get to Speed for Hack'19
 
-[![Twitter](https://img.shields.io/badge/Follow_On_Twitter-Ayush_Shekhar-blue.svg?style=flat)](https://twitter.com/007221b)
+[![Twitter](https://img.shields.io/badge/Follow_On_Twitter-Ayush_Shekhar-blue.svg?style=flat)](https://twitter.com/ayushshekhar17)
 [![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Ayush_Shekhar-green.svg)](https://medium.com/@ayushshekhar)
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Ayush_Shekhar-blue.svg?style=flat)](https://www.linkedin.com/in/ayushshekhar/)
 
