@@ -1,11 +1,12 @@
-# Let's Get to Speed for Hack'19
+# Let's Get to Speed for Your Next Hackathon
 
 [![Twitter](https://img.shields.io/badge/Follow_On_Twitter-Ayush_Shekhar-blue.svg?style=flat)](https://twitter.com/007221b)
 [![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Ayush_Shekhar-green.svg)](https://medium.com/@ayushshekhar)
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Ayush_Shekhar-blue.svg?style=flat)](https://www.linkedin.com/in/ayushshekhar/)
 
-![Hack'19 Logo](https://i.ibb.co/0VnrPXW/The-Un-Official-Developer-Handbook.png)
+![Handbook Logo](https://i.ibb.co/8DNB5tZ/The-Un-Official-Developer-Handbook.png)
 
+# Legacy
 **Hack'19**, the first of its kind **International Flutter Hackathon**, organised by the Flutter Community and supported by the Flutter team at Google is just around the corner, and I thought that I should attempt to curate some helpful resources, to help the participants get to speed.
 
 
@@ -24,9 +25,9 @@ Here are some useful links:
 
 ## Why a Handbook?
 
-At the end of the day, Hack 19 is a hackathon with actual winners, and because it is about Flutter, there will be some really breathtaking UIs, apps with rocket speed performance, and some elements which feel like magic. In a competition like that, you don't want to be missing out, especially when there's a lot of content available online which can help you utilise those 5-6 hours of coding time that you get, and make the most attractive and useful app.
+At the end of the day, a hackathon is a competition with actual winners, and because it is about Flutter, there will be some really breathtaking UIs, apps with rocket speed performance, and some elements which feel like magic. In a competition like that, you don't want to be missing out, especially when there's a lot of content available online which can help you utilise those hours of coding time that you get, and make the most attractive and useful app.
 
-So, I took the liberty of scavenging the internet, and picking up all the amazing articles, videos, apps, and other helpful resources that can help you achieve that goal. Plus, the scope of this handbook extends beyond Hack 19. This will be helpful for any future hackathon or competition, where you are going to use Flutter.
+So, I took the liberty of scavenging the internet, and picking up all the amazing articles, videos, apps, and other helpful resources that can help you achieve that goal. Plus, the scope of this handbook extends beyond hackathons. This will be helpful for any future competition or project, where you are going to use Flutter.
 
 ## Installation and First Steps
 
